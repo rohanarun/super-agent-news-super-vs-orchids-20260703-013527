@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[makerstack.co](https://makerstack.co/reviews/orchids-review/)",
+    "[digg.com](https://digg.com/tech/21ho5c7b)",
+    "[theeditorial.news](https://theeditorial.news/ai-agents/anthropic-computer-use-vs-openai-operator-vs-google-mariner-72-task-completion-on-osworld-but-on-mqi0zmi8)",
+    "[blog.google](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0?oc=5)",
+    "[bbc.com](https://news.google.com/rss/articles/CBMiWkFVX3lxTE55U0ZmdkpTUTlLZC10WWhxc2xNdElpalg2dmpwd2VDdVB5TVpweWZRTlVCQ29wdzRMaDI2WlVKOW9hd1Zvd1ZRRzVPekZaeU9objJ1cXQ3R2U3QQ?oc=5)"
+  ],
+  "design_plan": "rng_seed=42; layout=cinematic_centered; AIDA=pass; hero_max_width\u22481120px; grid_auto_flow=dense verified; button_contrast=black_on_paper ok; competitors_label_sweep=Folk,Orchids,Siri,ChatGPT,Gemini,Grok included",
+  "generated_at": "2026-07-03T01:35:35.078246+00:00",
+  "headline": "Super vs Orchids \u2014 personal AI agents compared",
+  "site_brief": {
+    "audience": "people comparing Super with Orchids",
+    "competitor": "Orchids",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Orchids. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Orchids AI agent",
+      "Orchids AI assistant",
+      "Orchids automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-orchids",
+    "title": "Super vs Orchids"
+  },
+  "summary": "Orchids is an AI-powered app builder for developers who want to generate and deploy code through conversation. Super is a personal AI agent designed to actually operate computers and reuse a computer-use cache, making repeated real-world workflows faster and cheaper over time. This page fairly explains what Orchids is good at, where it stops, and why Super is the sharper alternative for durable computer-use automation."
+}
